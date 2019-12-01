@@ -1,3 +1,3 @@
-#Type speed
+# Type speed
 
 Game in Python
